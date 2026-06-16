@@ -1,5 +1,9 @@
 body{
-    background-color: #FFD400;   
+    background-color: #BFC9D1;   
+}
+header{
+    display: flex;
+    align-items: center;
 }
 h1{
     color: #91D06C;

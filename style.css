@@ -1,5 +1,5 @@
 body{
-    background-color: #BFC9D1;   
+    background-color: #FFEA6C;   
 }
 header{
     display: flex;
@@ -13,4 +13,8 @@ h1{
 img{
     width: 17%;
     margin-left: 800px;
+    display:flex;
+}
+div{
+  font-size: larger;
 }
